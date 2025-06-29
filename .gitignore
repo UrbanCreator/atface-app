@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+attendance.xlsx
+*.log
+*.env
+.env
